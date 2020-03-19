@@ -1,0 +1,16 @@
+{
+"companyName": "Gaminart Productions",
+"productName": "Island Generation",
+"productVersion": "0.1",
+"dataUrl": "Island Generation.data.unityweb",
+"wasmCodeUrl": "Island Generation.wasm.code.unityweb",
+"wasmFrameworkUrl": "Island Generation.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0f6"
+}
