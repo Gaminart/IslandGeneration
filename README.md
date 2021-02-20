@@ -1,4 +1,4 @@
 # IslandGeneration
 
 LINK TO WEB LAUNCHER:
-https://gaminartprod.github.io/IslandGeneration/
+https://renatusdev.github.io/IslandGeneration/
